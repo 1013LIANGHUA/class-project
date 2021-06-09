@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CAMzB;;AARD,AAII,OAJG,CAIH,KAAK,CAAC;EACF,MAAM,EAAE,SAAS;EACjB,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "../djevents-frontend/components/Layout2/Layout.module.scss"
+    ],
+    "names": [],
+    "file": "Layout.module.css"
+}
